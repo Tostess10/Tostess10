@@ -1,4 +1,4 @@
-## Olá eu sou o Felipe Tostess10
+## Olá eu sou o Felipe Tostes
 - 👨🏽‍💻 Estou estudando Javascript
 - 😄 Pronouns: ele/dele
 
