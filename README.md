@@ -1,5 +1,5 @@
 ## Olá eu sou o Felipe Tostes
-- 👨🏽‍💻 Estou estudando Javascript
+- 👨🏽‍💻 Estou estudando para Desenvolvedor Full Stack
 - 😄 Pronouns: ele/dele
 
 
